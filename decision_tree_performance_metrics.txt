@@ -1,0 +1,4 @@
+Mean Accuracy: 0.60
+Mean Precision: 0.64
+Mean Recall: 0.60
+Mean F1 Score: 0.61

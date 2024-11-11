@@ -1,0 +1,6 @@
+                                Text Emoji     Label                      Cleaned_Text
+0                       I love this!     😊  Positive                       i love this
+1            This is so frustrating!     😡  Negative            this is so frustrating
+2              It's okay, not great.     😐   Neutral                its okay not great
+3       What a wonderful experience!     😍  Positive       what a wonderful experience
+4  Feeling down about the situation.     😢  Negative  feeling down about the situation
